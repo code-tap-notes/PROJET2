@@ -1,2 +1,2 @@
 # PROJET2
-pous 2e projet
+pour 2e projet
